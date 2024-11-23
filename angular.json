@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Contact-App"
+  "defaultProject": "Contact-App",
+  "cli": {
+    "analytics": "588e28a4-2a5f-4738-b653-5251ed4817ce"
+  }
 }
